@@ -73,3 +73,7 @@ open GroupMaker.app
 ```bash
 swift icon/make_icon.swift icon/icon_1024.png && ./build.sh
 ```
+
+## ライセンス
+
+[MIT License](LICENSE)
